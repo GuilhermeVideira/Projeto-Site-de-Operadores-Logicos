@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    overflow-x: hidden;
+    background-color: #000;
+}
+
+.fundo-video {
+    position: absolute;
+    z-index: -1;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+.fundo-video .video {
+    height: 100vh;
+}
+
+.fundo-video::after {
+    content: "";
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient(90deg, rgb(17, 17, 17) 0%, rgba(0,0,0,0.8) 50%, rgba(0,0,0,1) 100%);
+}
+
+.texto01 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #000;  
+    font-size: 20px}   
+
+.cartaocinza{
+    top: 230px;
+    left: 600px;
+    position: absolute;
+}
+
+.imagem{
+    border-radius: 20px
+}
+
+.tabela{
+    top: 223px;
+    left: 180px;
+    position: absolute;
+}
+
+.calculo{
+    top: 180px;
+    left: 700px;
+    position: absolute;
+}
+
+.termometro{
+    top: 603px;
+    left: 160px;
+    position: absolute;
+}
+
+.carossel{
+    top: 1003px;
+    position: absolute;
+}
