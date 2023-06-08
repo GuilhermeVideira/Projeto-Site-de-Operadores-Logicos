@@ -1,6 +1,6 @@
 # ♡ Projeto Site de Operadores Lógicos ♡
 
-💻 Este seguinte projeto é uma atividade prática de desencolviemnto do componente curricular programação web, do curso de desencolvimento de sistemas que estou cursando atualmente. 💻
+💻 Este seguinte projeto é uma atividade prática de desenvolvimento do componente curricular programação web, do curso de desenvolvimento de sistemas que estou cursando atualmente. 💻
 
 A proposta da atividade era de desenvolver uma aplicação web de um sistema de cálculos de operadores lógicos: Média de clima de temperatura / Média de peso ideal / Média do aluno. 
 
